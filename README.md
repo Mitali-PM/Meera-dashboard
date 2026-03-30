@@ -1,1 +1,1 @@
-# Meera-dashboard
+# meera-ai-dashboard
